@@ -2,7 +2,7 @@ Check out luigiretzkowski.com to find out all about me!
 
 Short: 
 - 👋 Hi, I’m @LuigiRetzkowski
-- 👀 Looking to become a web3 Dev
+- 👀 Smart Contract Developer
 - 📫 Reach me on Discord: Luigixb#2867
 
 
